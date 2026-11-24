@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Khan",
+    "event": "Tech Summit 2026",
+    "ticketType": "VIP",
+    "ticketPrice": 5000
+  },
+  {
+    "id": 2,
+    "name": "Usman Tariq",
+    "event": "Tech Summit 2026",
+    "ticketType": "Standard",
+    "ticketPrice": 2000
+  }
+]
